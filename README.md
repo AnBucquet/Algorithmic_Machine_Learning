@@ -2,7 +2,7 @@
 
 ## Introduction 
 
-This repository contains all the projects I did with * [jbdrvl](https://jbdrvl.github.io) for the * [Algorithmic Machine Learning Course] (http://www.eurecom.fr/en/course/AML-2018Spring) (see * [course repository](https://github.com/DistributedSystemsGroup/Algorithmic-Machine-Learning))  at * [Eurecom] (http://www.eurecom.fr/en). 
+This repository contains all the projects I did with **[jbdrvl](https://jbdrvl.github.io)** for the **[Algorithmic Machine Learning Course] (http://www.eurecom.fr/en/course/AML-2018Spring)** (see **[course repository](https://github.com/DistributedSystemsGroup/Algorithmic-Machine-Learning))**  at **[Eurecom] (http://www.eurecom.fr/en)**. 
 
 ## Summary
 - *[Building a music recommender system](https://github.com/AnBucquet/Algorithmic_Machine_Learning/tree/master/Building_a_Music_Recommender_System)* (soon)
