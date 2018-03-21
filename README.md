@@ -3,7 +3,7 @@
 ## Introduction 
 
 This repository contains all the projects I did with **[jbdrvl](https://jbdrvl.github.io)** for the **[Algorithmic Machine Learning Course](http://www.eurecom.fr/en/course/AML-2018Spring)** (see **[course repository](https://github.com/DistributedSystemsGroup/Algorithmic-Machine-Learning))**  at **[Eurecom](http://www.eurecom.fr/en)**. 
-The guiding thread of this project is as follows:
+The guiding thread of those projects are as follows:
 1. Data cleaning
 2. Dala analysis
 3. Algorithm implementation
