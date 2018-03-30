@@ -11,9 +11,9 @@ The guiding thread of those projects are as follows:
 5. Optimization and further research
 
 ## Summary
-- *[Building a music recommender system](https://github.com/AnBucquet/Algorithmic_Machine_Learning/tree/master/Building_a_Music_Recommender_System)* (soon)
-   Matrix factorisation - ALS 
-- 
+- *[Building a music recommender system](https://github.com/AnBucquet/Algorithmic_Machine_Learning/tree/master/Building_a_Music_Recommender_System)*
+   Matrix factorisation - ALS - Implicit
+- *Estimating Financial Risk through Monte Carlo Simulation*
 -
 -
 -
