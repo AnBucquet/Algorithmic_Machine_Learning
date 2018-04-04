@@ -1,4 +1,4 @@
-# Algorithmic_Machine_Learning
+# Algorithmic Machine Learning
 
 ## Introduction 
 
@@ -13,7 +13,7 @@ The guiding thread of those projects are as follows:
 ## Summary
 - *[Building a music recommender system](https://github.com/AnBucquet/Algorithmic_Machine_Learning/tree/master/Building_a_Music_Recommender_System)*
    Matrix factorisation - ALS - Implicit
-- *[Estimating Financial Risk through Monte Carlo Simulation](https://github.com/AnBucquet/Algorithmic_Machine_Learning/tree/master/Estimating_Financial_Risk_through_Monte_Carlo_Simulation)*
+- *[Estimating Financial Risk through Monte Carlo Simulation](https://github.com/AnBucquet/Algorithmic_Machine_Learning/tree/master/Estimating_Financial_Risk_through_Monte_Carlo_Simulation)* (soon) MonteCarlo in TimeSeries - 
 -
 -
 -
