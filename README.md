@@ -14,7 +14,7 @@ The guiding thread of those projects are as follows:
 - *[Building a music recommender system](https://github.com/AnBucquet/Algorithmic_Machine_Learning/tree/master/Building_a_Music_Recommender_System)* - Matrix factorisation - ALS - Implicit
 - *[Estimating Financial Risk through Monte Carlo Simulation](https://github.com/AnBucquet/Algorithmic_Machine_Learning/tree/master/Estimating_Financial_Risk_through_Monte_Carlo_Simulation)* - MonteCarlo simulation - Time series 
 - *[Predicting House Prices](https://github.com/AnBucquet/Algorithmic_Machine_Learning/tree/master/Predicting_House_Prices)* - Prediction models - Cross-validation
--
+- *[Study of real aeronautical data from SAFRAN](https://github.com/AnBucquet/Algorithmic_Machine_Learning/tree/master/Study_Airplane_Data_SAFRAN)* - Visualization - Prediction models
 -
 
 
